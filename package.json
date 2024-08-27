@@ -5,11 +5,12 @@
   "author": "GeraldAC <200332@unsaac.edu.pe>",
   "license": "MIT",
   "private": false,
-  "scripts":{
+  "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "devDependencies": {
+    "dotenv": "^16.4.5",
     "nodemon": "^3.1.4"
   }
 }
